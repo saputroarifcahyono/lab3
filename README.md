@@ -17,3 +17,8 @@ Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection!
 ### code lab3table.html
 ![Screenshot (46)](https://user-images.githubusercontent.com/81613338/115048543-8642c700-9e8e-11eb-8de5-f2ce3ca9d89f.png)
 ![Screenshot (38)](https://user-images.githubusercontent.com/81613338/115048604-96f33d00-9e8e-11eb-8d7b-5f7b1cfb6a8e.png)
+
+### praktik membuat tampilan WEB1
+### code tampilan WEB1
+![Screenshot (47)](https://user-images.githubusercontent.com/81613338/115048836-de79c900-9e8e-11eb-8556-932a37107317.png)
+
