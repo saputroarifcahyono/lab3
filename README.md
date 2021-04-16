@@ -23,4 +23,5 @@ Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection
 ### praktik membuat tampilan WEB1
 ### code tampilan WEB1
 ![Screenshot (47)](https://user-images.githubusercontent.com/81613338/115048836-de79c900-9e8e-11eb-8556-932a37107317.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/81613338/115049654-d1a9a500-9e8f-11eb-9330-e718b4052a29.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/81613338/115049828-fbfb6280-9e8f-11eb-81cb-363b15122efd.png)
+
