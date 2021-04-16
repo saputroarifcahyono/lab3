@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Jawaban Praktikum 3</title>
+        <style>
+            body{
+                background-color: #a7ee9e;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                color: #fff;
+            }
+
+            #navigation {
+                background-color: rgb(13, 53, 231);
+                width: 100%;
+                height: 39px;
+                border-bottom: 1px solid #ccc;
+            }
+            #navigation ul {
+                padding: 0;
+                margin: 0;
+                list-style-type: none;
+            }
+            #navigation ul li {
+                    float: left;
+                    position: relative;
+            }
+            #navigation ul li a {
+                display: block;
+                padding: 10px 20px;
+                color: #fff;
+                text-decoration: none;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+            
+            #navigation ul li a:hover {
+                background-color: rgb(20, 57, 220);
+                        }
+            /*Menu Dropdown*/
+
+            #navigation ul li ul {
+                display: none;
+            }
+            #navigation ul li:hover ul{
+                display: block;
+                position: absolute;
+            }
+            #navigation ul li:hover ul li a {
+                display: block;
+                background-color: rgb(250, 12, 12);
+                color: #fff;
+                width: 150px;
+                border-bottom: 1px solid #ccc;
+            }
+            #navigation ul li:hover ul li a:hover {
+                background-color: #861212;
+            }
+            #navigation ul li:hover>a{background: #05fc12;}
+        </style>   
+    </head>
+    <body>
+        <div id="navigation">
+            <ul id="nav">
+                <li><a href="#">Home</a>
+                    <ul>
+                        <li><a href="#">profil</a></li>
+                        <li><a href="#">Visi dan Misi</a></li>
+                        <li><a href="#">Tentang Kami</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Fakultas Teknik</a>
+                    <ul>
+                        <li><a href="#">Teknik Arsitektur (S1)</a></li>
+                        <li><a href="#">Teknik Sipil(S1)</a></li>
+                        <li><a href="#">Teknik Informatika (S1)</a></li>
+                        <li><a href="#">Teknik Hasil Pertanian (S1)</a></li>
+                        <li><a href="#">Teknik industri (S1)</a></li>
+                        <li><a href="#">Teknik lingkungan (S1)</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Fakultas Ekonomi Bisnis dan Ilmu Sosial</a>
+                    <ul>
+                        <li><a href="#">Akuntansi (D3)</a></li>
+                        <li><a href="#">Manajemen (S1 & S2)</a></li>
+                        <li><a href="#">Hukum (S1)</a></li>
+                        <li><a href="#">PGPAUD (S1)</a></li>
+                        <li><a href="#">PGSD (S1)</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Sekolah Tinggi Agama Islam</a>
+                    <ul>
+                        <li><a href="#">Ekonomi Syariah (S1)</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Pendaftaran Mahasiswa Baru</a>
+                    <ul>
+                        <li><a href="#">Brosur Universitas Pelita Bangsa</a></li>
+                        <li><a href="#">Modul Alur Pendaftaran</a></li>
+                        <li><a href="#">Form Rincian biaya</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Fasilitas</a>
+                    <ul>
+                        <li><a href="#">Ruang Kelas</a></li>
+                        <li><a href="#">Masjid</a></li>
+                        <li><a href="#">Perpustakaan</a></li>
+                        <li><a href="#">Kantin</a></li>
+                        <li><a href="#">Laboratorium</a></li>
+                        <li><a href="#">Toilet</a></li>
+                        <li><a href="#">Lab Komputer</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Kegiatan Mahasiswa</a>
+                    <ul>
+                        <li><a href="#">Kegiatan Perkuliahan</a></li>
+                        <li><a href="#">Kegiatan Himpunan Mahasiswa</a></li>
+                        <li><a href="#">Kegiatan Club Mahasiswa</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </body>
