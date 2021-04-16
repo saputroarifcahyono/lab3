@@ -8,7 +8,8 @@ Code untuk membuat tampilan dropdown menu dan listbox dengan multiple selection!
 ![Screenshot (42)](https://user-images.githubusercontent.com/81613338/115045117-11ba5900-9e8b-11eb-85e3-1a3947c6ec23.png)
 
 ### Praktik Membuat Tabel dan Form HTML
-File Lab3Web.html
-Code untuk membuat "Ordered List"
+### File Lab3Web.html
+### Code untuk membuat "Ordered List"
 ![Screenshot (45)](https://user-images.githubusercontent.com/81613338/115046179-09165280-9e8c-11eb-9095-7bb51f0f2ab2.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/81613338/115046539-6d391680-9e8c-11eb-810b-88006b5573fa.png)
 
